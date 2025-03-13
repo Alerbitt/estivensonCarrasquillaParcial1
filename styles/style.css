@@ -1,0 +1,23 @@
+
+div.contenedor1{
+    background-color: rgb(198, 238, 209);
+    width: 100%;
+}
+div.contenedor2{
+    background-color: rgb(233, 246, 229);
+    width: 100%;
+    text-align: center;
+}
+div.contenedor3{
+    background-color: rgb(207, 252, 190);
+}
+div.contenedor4{
+    background-color: rgb(198, 238, 209);
+}
+p.colorRGB{
+    color: rgb(160, 114, 90);
+}
+div.contenedor5{
+    text-align: center;
+    background-color: rgb(207, 252, 190);
+}
